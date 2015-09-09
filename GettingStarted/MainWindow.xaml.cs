@@ -30,6 +30,9 @@ namespace GettingStarted
             showBox();
         }
 
+        /// <summary>
+        /// This function is used in trying Refactor
+        /// </summary>
         private void showBox()
         {
             MessageBox.Show("Hello " + textSayHello.Text);
